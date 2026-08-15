@@ -8,7 +8,7 @@ This project simulates an enterprise ransomware attack where the primary Domain 
 
 ## Network Architecture
 
-![Network Architecture](diagrams/network-architecture.png)
+![Network Architecture](diagrams/network-architecture.png.png)
 
 ---
 
